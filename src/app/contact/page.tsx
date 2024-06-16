@@ -3,8 +3,6 @@ import Navbar from '../components/navbar';
 import Footer from '../components/footer';
 
 export default function ContactPage() {
-  const name = 'Jihoon';
-  const result = 1 + 2;
   return (
     <main>
       <div className="bg-blue-900 text-blue-300 font-mono">

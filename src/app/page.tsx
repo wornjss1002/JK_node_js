@@ -6,8 +6,8 @@ export default function Home() {
   const name = 'jaegweon';
   const result = 1 + 2;
   return (
-    <main className="bg-yellow-600 text-black">
-      <div className="font-mono bg-red-900 text-red-300">
+    <main className="bg-white-600 text-black">
+      <div className="font-mono bg-blue-900 text-blue-300">
         <Navbar />
       </div>
       <div className="font-mono text-black-300 text-center mt-1 p-4">
